@@ -1,7 +1,8 @@
 package com.example.sms.channel.yimei;
 
-import com.daijunjian.SmsDemo.Channel;
-import com.daijunjian.SmsDemo.channel.AbstractChannelFactory;
+
+import com.example.sms.Channel;
+import com.example.sms.channel.AbstractChannelFactory;
 
 /**
  * Created by Administrator on 2017/8/18 0018.

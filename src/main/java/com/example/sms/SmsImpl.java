@@ -1,8 +1,8 @@
 package com.example.sms;
 
-import com.daijunjian.SmsDemo.channel.chuanglan.ChunglanFactory;
-import com.daijunjian.SmsDemo.channel.mengwang.MengwangFactory;
-import com.daijunjian.SmsDemo.channel.yimei.YimeiFactory;
+import com.example.sms.channel.chuanglan.ChunglanFactory;
+import com.example.sms.channel.mengwang.MengwangFactory;
+import com.example.sms.channel.yimei.YimeiFactory;
 import org.apache.commons.lang.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

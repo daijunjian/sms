@@ -1,6 +1,7 @@
 package com.example.sms.channel.mengwang;
 
-import com.daijunjian.SmsDemo.Channel;
+
+import com.example.sms.Channel;
 
 /**
  * Created by Administrator on 2017/8/18 0018.
